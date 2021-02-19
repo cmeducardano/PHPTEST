@@ -3,7 +3,7 @@
     <title>PHP Test</title>
   </head>
   <body>
-    <?php echo '<p>Hello World</p>'; 
+    <?php echo '<p>Hello my World</p>'; 
     try {
       $dsn = "mysql:host=den1.mysql2.gear.host ; dbname=php7";
       $PDOconn= new PDO($dsn,"db5biteacher","Iu2m-lCa!9RL");
